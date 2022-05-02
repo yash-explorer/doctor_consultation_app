@@ -1,0 +1,2 @@
+# doctor_consultation_app
+The doctor consultation app is ment to bridge the gap between doctor and patients in the times when physical meets between doctor and patients are not possible.The project uses Tkinter for front end and mysql for backend.
